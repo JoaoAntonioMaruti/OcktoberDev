@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - [ ] **Create Google Main Page**
 
 ## Configure StoryBook
-*@todo*
+First step run `npm i -g getstorybook` to install `getstorybook` CLI and run `yarn storybook` to run Stories App
 
 ## Create SearchBar component
 *@todo*
