@@ -10,9 +10,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # TASKS
 
- - [ ] **Configure StoryBook**
-    - [ ] Install dependecies
-    - [ ] Configure sotrybook file
+ - [x] **Configure StoryBook**
+    - [x] Install dependecies
+    - [x] Configure sotrybook file
  - [ ] **Create SearchBar component**
  - [ ] **Create Logo Component**
  - [ ] **Create Button Component**
