@@ -13,10 +13,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - [x] **Configure StoryBook**
     - [x] Install dependecies
     - [x] Configure sotrybook file
- - [ ] **Create SearchBar component**
- - [ ] **Create Logo Component**
- - [ ] **Create Button Component**
- - [ ] **Create Google Main Page**
+ - [x] **Create SearchBar component**
+ - [x] **Create Logo Component**
+ - [x] **Create Button Component**
+ - [x] **Create Google Main Page**
 
 ## Configure StoryBook
 First step run `npm i -g getstorybook` to install `getstorybook` CLI and run `yarn storybook` to run Stories App

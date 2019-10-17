@@ -1,13 +1,8 @@
 import React from 'react';
-// import Main from './containers/Main'
+import Main from './containers/Main'
 
 const App = () => {
-  return <div />;
+  return <Main />;
 }
-
-// replace with
-// const App = () => {
-//   return <div />;
-// }
 
 export default App;
